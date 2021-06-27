@@ -1,6 +1,20 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{0004903F-08D8-9CBF-5164-B14C3434F694}",
+	"EngineAssociation": "4.26",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "CodeLiteSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "CLionSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "KDevelopSourceCodeAccess",
+			"Enabled": false
+		}
+	]
 }
